@@ -9,6 +9,16 @@ public class BookDbContext : DbContext
     {
     }
     
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        // Логирование SQL-запросов
+
+        optionsBuilder.LogTo(System.Console.WriteLine);
+        optionsBuilder.UseLoggerFactory(LoggerFactory.Create(builder => builder.AddDebug()));
+        optionsBuilder.UseLoggerFactory(LoggerFactory.Create(builder => builder.AddConsole()));
+    }
+    
+    
     public DbSet<Book> Books { get; set; }
     public DbSet<User> Users { get; set; }
 }

@@ -40,7 +40,43 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "HotChocolate": {
+              "target": "Package",
+              "version": "[13.8.1, )"
+            },
+            "HotChocolate.Abstractions": {
+              "target": "Package",
+              "version": "[13.8.1, )"
+            },
             "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[13.8.1, )"
+            },
+            "HotChocolate.Data.EntityFramework": {
+              "target": "Package",
+              "version": "[13.8.1, )"
+            },
+            "HotChocolate.Language": {
+              "target": "Package",
+              "version": "[14.0.0-p.27, )"
+            },
+            "HotChocolate.Subscriptions": {
+              "target": "Package",
+              "version": "[13.8.1, )"
+            },
+            "HotChocolate.Subscriptions.InMemory": {
+              "target": "Package",
+              "version": "[13.8.1, )"
+            },
+            "HotChocolate.Types": {
+              "target": "Package",
+              "version": "[13.8.1, )"
+            },
+            "HotChocolate.Utilities": {
+              "target": "Package",
+              "version": "[13.8.1, )"
+            },
+            "HotChocolate.Utilities.Introspection": {
               "target": "Package",
               "version": "[13.8.1, )"
             },

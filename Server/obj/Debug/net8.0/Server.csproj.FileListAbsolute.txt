@@ -61,3 +61,9 @@ C:\Users\buryy\RiderProjects\GraphQL_learning_project\Server\obj\Debug\net8.0\re
 C:\Users\buryy\RiderProjects\GraphQL_learning_project\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\buryy\RiderProjects\GraphQL_learning_project\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\buryy\RiderProjects\GraphQL_learning_project\Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\buryy\RiderProjects\GraphQL_learning_project\Server\obj\Debug\net8.0\Server.sourcelink.json
+C:\Users\buryy\RiderProjects\GraphQL_learning_project\Server\bin\Debug\net8.0\HotChocolate.Data.dll
+C:\Users\buryy\RiderProjects\GraphQL_learning_project\Server\bin\Debug\net8.0\HotChocolate.Data.EntityFramework.dll
+C:\Users\buryy\RiderProjects\GraphQL_learning_project\Server\bin\Debug\net8.0\HotChocolate.Transport.Abstractions.dll
+C:\Users\buryy\RiderProjects\GraphQL_learning_project\Server\bin\Debug\net8.0\HotChocolate.Transport.Http.dll
+C:\Users\buryy\RiderProjects\GraphQL_learning_project\Server\bin\Debug\net8.0\HotChocolate.Utilities.Introspection.dll
